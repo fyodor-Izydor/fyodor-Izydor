@@ -10,18 +10,17 @@ I'm **Yayuk (fyodor-Izydor)**, an independent developer passionate about **build
 
 ### My Programming Languages & Tools
 <p>
-  <img alt="JavaScript" title="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="margin-right:10px;"/>
-  <img alt="TypeScript" title="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" style="margin-right:10px;"/>
-  <img alt="PHP" title="PHP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" style="margin-right:10px;"/>
-  <img alt="Python" title="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="margin-right:10px;"/>
-  <img alt="HTML5" title="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="margin-right:10px;"/>
-  <img alt="CSS3" title="CSS3" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="margin-right:10px;"/>
-  <img alt="Tailwind CSS" title="Tailwind CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" style="margin-right:10px;"/>
-  <img alt="Cloudinary" title="Cloudinary" width="40px" src="https://seeklogo.com/images/C/cloudinary-logo-91719B73BC-seeklogo.com.png" style="margin-right:10px;"/>
-  <img alt="Supabase" title="Supabase" width="40px" src="https://seeklogo.com/images/S/supabase-logo-2251E85F79-seeklogo.com.png" style="margin-right:10px;"/>
-  <img alt="Firebase" title="Firebase" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="margin-right:12px;"/>
+  <img alt="TypeScript" title="TypeScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" style="margin-right:12px;"/>
+  <img alt="PHP" title="PHP" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" style="margin-right:12px;"/>
+  <img alt="Python" title="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="margin-right:12px;"/>
+  <img alt="HTML5" title="HTML5" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="margin-right:12px;"/>
+  <img alt="CSS3" title="CSS3" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="margin-right:12px;"/>
+  <img alt="Tailwind CSS" title="Tailwind CSS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" style="margin-right:12px;"/>
+  <img alt="Cloudinary" title="Cloudinary" width="50px" src="https://seeklogo.com/images/C/cloudinary-logo-91719B73BC-seeklogo.com.png" style="margin-right:12px;"/>
+  <img alt="Supabase" title="Supabase" width="50px" src="https://seeklogo.com/images/S/supabase-logo-2251E85F79-seeklogo.com.png" style="margin-right:12px;"/>
+  <img alt="Firebase" title="Firebase" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg"/>
 </p>
-
 
 ---
 
