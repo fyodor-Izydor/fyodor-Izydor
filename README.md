@@ -4,7 +4,7 @@ I'm **Yayuk (fyodor-Izydor)**, an independent developer passionate about **build
 
 - 🌱 I’m currently learning **Next.js advanced patterns, Firebase, and Supabase**  
 - 📫 How to reach me: wahyudjauhary@gmail.com  
-- LindekIn : <a>linkedin.com/in/muhammadnoorwahyu/</a>
+- LindekIn : [Muhammad Noorwahyu](linkedin.com/in/muhammadnoorwahyu)
 
 ---
 
@@ -12,14 +12,14 @@ I'm **Yayuk (fyodor-Izydor)**, an independent developer passionate about **build
 <p>
   <img alt="JavaScript" title="JavaScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="margin-right:12px;"/>
   <img alt="TypeScript" title="TypeScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" style="margin-right:12px;"/>
-  <img alt="PHP" title="PHP" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" style="margin-right:12px;"/>
+  <img alt="PHP" title="PHP" width="50px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/php.webp" style="margin-right:12px;"/>
   <img alt="Python" title="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="margin-right:12px;"/>
-  <img alt="HTML5" title="HTML5" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="margin-right:12px;"/>
-  <img alt="CSS3" title="CSS3" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="margin-right:12px;"/>
-  <img alt="Tailwind CSS" title="Tailwind CSS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" style="margin-right:12px;"/>
-  <img alt="Cloudinary" title="Cloudinary" width="50px" src="https://seeklogo.com/images/C/cloudinary-logo-91719B73BC-seeklogo.com.png" style="margin-right:12px;"/>
-  <img alt="Supabase" title="Supabase" width="50px" src="[https://seeklogo.com/images/S/supabase-logo-2251E85F79-seeklogo.com.png](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/supabase.png)" style="margin-right:12px;"/>
-  <img alt="Firebase" title="Firebase" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg"/>
+  <img alt="HTML5" title="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html-light.svg" style="margin-right:12px;"/>
+  <img alt="CSS3" title="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css-light.svg" style="margin-right:12px;"/>
+  <img alt="Tailwind CSS" title="Tailwind CSS" width="50px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tailwind.svg" style="margin-right:12px;"/>
+  <img alt="Cloudinary" title="Cloudinary" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2UA_Pvt1jOe65PmW-_3L-RJm4co7Hs84dwQ&s" style="margin-right:12px;"/>
+  <img alt="Supabase" title="Supabase" width="50px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supabase.svg" style="margin-right:12px;"/>
+  <img alt="Firebase" title="Firebase" width="50px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/firebase.svg"/>
 </p>
 
 ---
