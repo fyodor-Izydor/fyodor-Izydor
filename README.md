@@ -21,8 +21,6 @@ I'm **Yayuk (fyodor-Izydor)**, an independent developer passionate about **build
 ### Top Languages (Dynamic)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fyodor-Izydor&layout=compact&theme=radical&exclude_repo=template-repo1,template-repo2)
 
-> 💡 Tip: Exclude repo HTML-heavy agar **TypeScript/Next.js muncul dominan**.
-
 ---
 
 ### Featured Projects
