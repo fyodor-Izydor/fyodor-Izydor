@@ -18,7 +18,7 @@ I'm **Yayuk (fyodor-Izydor)**, an independent developer passionate about **build
   <img alt="CSS3" title="CSS3" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="margin-right:12px;"/>
   <img alt="Tailwind CSS" title="Tailwind CSS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" style="margin-right:12px;"/>
   <img alt="Cloudinary" title="Cloudinary" width="50px" src="https://seeklogo.com/images/C/cloudinary-logo-91719B73BC-seeklogo.com.png" style="margin-right:12px;"/>
-  <img alt="Supabase" title="Supabase" width="50px" src="https://seeklogo.com/images/S/supabase-logo-2251E85F79-seeklogo.com.png" style="margin-right:12px;"/>
+  <img alt="Supabase" title="Supabase" width="50px" src="[https://seeklogo.com/images/S/supabase-logo-2251E85F79-seeklogo.com.png](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/supabase.png)" style="margin-right:12px;"/>
   <img alt="Firebase" title="Firebase" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg"/>
 </p>
 
