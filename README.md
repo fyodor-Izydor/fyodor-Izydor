@@ -4,7 +4,7 @@ I'm **Yayuk (fyodor-Izydor)**, an independent developer passionate about **build
 
 - 🌱 I’m currently learning **Next.js advanced patterns, Firebase, and Supabase**  
 - 📫 How to reach me: wahyudjauhary@gmail.com  
-- LindekIn : [Muhammad Noorwahyu](https://linkedin.com/in/muhammadnoorwahyu)
+- LinkedIn : [Muhammad Noorwahyu](https://linkedin.com/in/muhammadnoorwahyu)
 
 ---
 
